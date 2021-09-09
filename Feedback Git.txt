@@ -1,0 +1,1 @@
+Muy util para entender como trabajar con git, en el proyecto intermedio quisimos utilizarlo pero tuvimos varios problemas dado a que no sabiamos que no teniamos que trabajar sobre las mismas clases.
